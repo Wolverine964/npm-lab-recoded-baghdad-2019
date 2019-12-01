@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Wolverine964/npm-lab-recoded-baghdad-2019/issues"
   },
-  "homepage": "https://github.com/Wolverine964/npm-lab-recoded-baghdad-2019#readme"
+  "homepage": "https://github.com/Wolverine964/npm-lab-recoded-baghdad-2019#readme",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
 }
