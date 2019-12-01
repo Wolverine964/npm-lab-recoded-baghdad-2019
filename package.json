@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Wolverine964/npm-lab-recoded-baghdad-2019#readme",
   "dependencies": {
-    "babel": "^6.23.0"
+    "babel": "^6.23.0",
+    "moment": "^2.24.0"
   }
 }
